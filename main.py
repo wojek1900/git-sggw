@@ -1,1 +1,4 @@
-print("Hello git!")
+import time
+
+print(time.time())
+print("Test")
